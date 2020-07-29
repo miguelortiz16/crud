@@ -1,0 +1,11 @@
+instalar dependencias de angular 
+npm install
+ng server 
+
+
+
+para correr el servidor con npm start
+, tener mongodb en funcionamiento  y tener el documento usuarios en robo 3t
+
+
+
